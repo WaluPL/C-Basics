@@ -7,3 +7,4 @@ Csharp basic programs via MS Visual Studio
 5. Making arrays of arrays [][] and copy references
 6. Using key word "delegate"
 7. Create, copy, print object, constructor, 'this' keyword, using accessors{get}{set} etc.
+8. Using Composition: Create, copy, print object, constructor, using accessors{get}{set} etc.
