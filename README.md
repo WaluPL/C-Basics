@@ -8,3 +8,4 @@ Csharp basic programs via MS Visual Studio
 6. Using key word "delegate"
 7. Create, copy, print object, constructor, 'this' keyword, using accessors{get}{set} etc.
 8. Using Composition: Create, copy, print object, constructor, using accessors{get}{set} etc.
+9. Inheritance in c#, using base keyword and ussing accessors etc.
